@@ -1,0 +1,9 @@
+.header {
+  padding: 3px;
+  text-align: center;
+  background: #48A3D8;
+  color: white;
+  font-size: 30px;
+}
+body {
+margin: 0;
